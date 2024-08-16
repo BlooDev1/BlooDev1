@@ -1,15 +1,20 @@
+# Hey there! Welcome to my GitHub 👋
 
-# Hello! 👋
-
-I'm Bloo, a coder who loves working with HTML, CSS, Lua, and JavaScript. Here's a quick overview:
-
-## About Me
-- 💻 I code with HTML, CSS, Lua, and JavaScript.
-- 🔭 I like building Refreshing & Reactive Websites and Also Coding in Lua for FiveM.
+I'm really into developing cool stuff for FiveM servers. Whether you need custom scripts, car mods, MLOs, or anything else to take your server to the next level, I've got you covered.
 
 ## What I Do
-- 🌐 I make websites look good and work well using HTML, CSS, and JavaScript.
-- 🎮 I also create scripts with Lua for FiveM & Much More!.
-- 🚀 JavaScript is my favorite for adding cool stuff to projects.
 
-Thanks for visiting!
+🚗 **Car Mods (CARFs)**  
+Custom, detailed car models that make your server stand out from the crowd.
+
+🏢 **Map Mods (MLOs)**  
+Need a new interior or exterior for your server? I create unique MLOs that bring your ideas to life.
+
+💻 **Scripts**  
+From basic scripts to complex systems, I enjoy bringing your ideas to reality with solid code.
+
+## Get in Touch
+
+Feel free to check out my repositories and see what I've been working on. If you want to collaborate or have a request, don’t hesitate to hit me up!
+
+
